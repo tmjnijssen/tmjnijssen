@@ -18,7 +18,8 @@ DOI: [10.13140/RG.2.2.28510.72001](https:doi.org/10.13140/RG.2.2.28510.72001)
 ### Journal articles
 - T.M.J. Nijssen, J.A.M. Kuipers, J. van der Stel, A.T. Adema and K.A. Buist  
 **Large-scale VOF/CFD-DEM simulation of blast furnace hearth dynamics**  
-*Accepted in: ISIJ International, 2022*
+*ISIJ International, vol. 62-4, 2022*
+DOI: [10.2355/isijinternational.ISIJINT-2021-521](https://doi.org/10.2355/isijinternational.ISIJINT-2021-521)
 
 - T.M.J. Nijssen, I. Hoeks, V. Manjunath, J.A.M. Kuipers, J. van der Stel, A.T. Adema and K.A. Buist  
 **Experiments and simulations on a cold-flow blast furnace hearth model**  
