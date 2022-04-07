@@ -12,7 +12,7 @@
 ### PhD thesis
 T.M.J. Nijssen  
 **Dynamic behaviour of liquid-solid systems: Modelling and experiments applied to the blast furnace hearth**  
-*Eindhoven University of Technology (NL), November 2022*
+*Eindhoven University of Technology (NL), November 2022*  
 DOI: [10.13140/RG.2.2.28510.72001](https:doi.org/10.13140/RG.2.2.28510.72001)
 
 ### Journal articles
